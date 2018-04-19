@@ -13,7 +13,7 @@ public class Task01 {
         String inputA = scanner.next();
         System.out.println("Input symbols again:");
         String inputB = scanner.next();
-        String message = inputA + inputB;
+        String message = new StringBuilder(inputA).append(inputB).toString();
         System.out.println("Result message is: "+message);
     }
 }
