@@ -12,6 +12,7 @@ Pēc datu ievades, programmai ir jāsakārto rindas alfabēta secībā un izvad�
 
 import java.util.*;
 
+//Ok
 public class Task01 {
     public static void main(String[] args) {
 

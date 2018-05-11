@@ -12,6 +12,8 @@ utt.
 public class main {
     public static void main(String[] args) {
         Book cleanCode = new Book("Clean Code","Robert Martin",2008,464);
+
+        //šeit labak ir izveidot vienu metodi kura māk izdrukāt book objektu
         System.out.println("cleanCode title: " + cleanCode.getTitle()+
                 ", Author: "+cleanCode.getAuthor()+
                 ", Year: "+cleanCode.getYear()+

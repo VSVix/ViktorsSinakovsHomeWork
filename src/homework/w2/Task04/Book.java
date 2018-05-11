@@ -13,7 +13,7 @@ Piemēram:
 Book powerOfNow = new Book("Power of Now", "Eckhart Tolle", 2001, 224);
 System.out.println(powerOfNow);
 */
-
+//Ok
 public class Book {
     private String title;
     private String author;

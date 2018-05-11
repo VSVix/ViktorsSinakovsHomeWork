@@ -8,7 +8,7 @@ Book powerOfNow = new Book("Power of Now", "Eckhart Tolle", 2001, 224);
 System.out.println("Power of Now title: " + powerOfNow.getTitle());
 utt.
 */
-
+//Ok
 public class Book {
     private String title;
     private String author;

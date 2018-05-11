@@ -9,6 +9,7 @@ Katram objektam atbildiet uz šiem jautājumiem:
 
 Uzrakstiet atbildes teksta failā.
  */
+//OK
 public class Task01 {
     public static void main(String[] args) {
         System.out.println("Kādos stāvokļos var atrasties objekts ? \n" +

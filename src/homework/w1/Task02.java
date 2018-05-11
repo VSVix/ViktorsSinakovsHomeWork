@@ -19,6 +19,7 @@ public class Task02 {
         isSymmetric(inputA);
     }
 
+    //"is" izmanto tādām metodēm vai mainīgajiem kuri atgriež boolean tipu
     private static void isSymmetric(String input) {
         String left, right;
         StringBuilder reverse = new StringBuilder();

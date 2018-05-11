@@ -6,6 +6,7 @@ import java.util.Scanner;
 Uzrakstiet programmu, kur lietotājam ievadot divas simbolu virknes,
 programma tās savieno (konkatinē) un rezultātu izvada uz ekrāna.
 */
+//OK
 public class Task01 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in );

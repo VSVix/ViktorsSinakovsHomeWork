@@ -17,6 +17,7 @@ Izveidojiet klasi Book, kurai ir jāapraksta grāmata.
         cleanCode.setTitle("Clean Code");
         cleanCode.setAuthor("Robert Martin");
 */
+//Ok
 public class main {
     public static void main(String[] args) {
         Book cleanCode = new Book();

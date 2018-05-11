@@ -14,6 +14,7 @@ Piemēram:
 Book powerOfNow = new Book("Power of Now", "Eckhart Tolle", 2001, 224);
 System.out.println(powerOfNow);
 */
+//OK
 public class main {
     public static void main(String[] args) {
         Book cleanCode = new Book("Clean Code","Robert Martin",2008,464);
